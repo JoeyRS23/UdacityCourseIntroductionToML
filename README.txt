@@ -34,6 +34,9 @@ The following files are contained in this project:
 MainCourseScript.py 
 Main script were the data is processed, model is trained, and evaluated.
 
+MainCourseScript.ipynb 
+Jupiter notebook of the script.
+
 stack-overflow-developer-survey-2023.zip
 ZIP that contains the dataset that has been used.
 
